@@ -46,7 +46,7 @@ https://localhost:44377/swagger
 | Username | Password | Role  |
 | -------- | -------- | ----- |
 | admin    | 123456   | Admin |
-| user     | !234567  | User  |
+| user     | 123456   | User  |
 
 | Step             | Command                           |
 | ---------------- | --------------------------------- |
